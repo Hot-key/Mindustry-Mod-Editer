@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindustryMod", "MindustryMod\MindustryMod.csproj", "{C5498F18-DB62-4DFA-94B6-C4E17E225DA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5498F18-DB62-4DFA-94B6-C4E17E225DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5498F18-DB62-4DFA-94B6-C4E17E225DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5498F18-DB62-4DFA-94B6-C4E17E225DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5498F18-DB62-4DFA-94B6-C4E17E225DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0FCB149-FE3D-4483-8D07-7AE300E3DE8E}
+	EndGlobalSection
+EndGlobal
