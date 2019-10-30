@@ -97,8 +97,47 @@ namespace MindustryMod
             this.Close();
         }
 
+
         #endregion
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            panelHider.Height = 22;
+        }
 
+        private void buttonProject_Click(object sender, EventArgs e)
+        {
+            tabControlMain.SelectedIndex = 0;
+        }
+
+        private void buttonBasic_Click(object sender, EventArgs e)
+        {
+            tabControlMain.SelectedIndex = 1;
+        }
+
+        private void buttonBlock_Click(object sender, EventArgs e)
+        {
+            tabControlMain.SelectedIndex = 2;
+        }
+
+        private void buttonItem_Click(object sender, EventArgs e)
+        {
+            tabControlMain.SelectedIndex = 3;
+        }
+
+        private void buttonImage_Click(object sender, EventArgs e)
+        {
+            tabControlMain.SelectedIndex = 4;
+        }
+
+        private void buttonSound_Click(object sender, EventArgs e)
+        {
+            tabControlMain.SelectedIndex = 5;
+        }
+
+        private void tabBasic_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
